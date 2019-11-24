@@ -1,6 +1,6 @@
 Autotrader V1.0
 
-An easy to understand python-based software to trade cryptocurrencies on the Binance trading platform. It was based on the work of yusun_yaku. I've seen it being capable of making fantastic profits. However it is important to choose the right strategy for every market / situation. And it is not easy to outperform the buy-and-hold strategy.
+An easy to understand python-based software to trade cryptocurrencies on the Binance trading platform. It was based on the work of @yasinkuyu. I've seen it being capable of making fantastic profits. However it is important to choose the right strategy for every market / situation. And it is not easy to outperform the buy-and-hold strategy.
 
 When writing this code, I focused on accessibility. For this reason I left out almost all object-oriented abstractions and used global variables. Every person who understands the very basics of programming and is able to follow the steps below, will understand this code and can try out his own strategy. Also, the framework for the trading itself has been provided and takes over all the work, so that the user can focus on strategies.
 
